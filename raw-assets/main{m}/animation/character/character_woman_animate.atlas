@@ -1,0 +1,279 @@
+
+character_woman_animate.png
+size: 698,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm
+  rotate: true
+  xy: 2, 163
+  size: 103, 243
+  orig: 103, 243
+  offset: 0, 0
+  index: -1
+L eyebow
+  rotate: false
+  xy: 37, 10
+  size: 43, 11
+  orig: 45, 13
+  offset: 1, 1
+  index: -1
+L jacket
+  rotate: 270
+  xy: 2, 662
+  size: 150, 328
+  orig: 150, 328
+  offset: 0, 0
+  index: -1
+L leg
+  rotate: true
+  xy: 269, 457
+  size: 146, 191
+  orig: 148, 193
+  offset: 1, 1
+  index: -1
+L lower arm
+  rotate: 270
+  xy: 2, 247
+  size: 99, 316
+  orig: 99, 324
+  offset: 0, 0
+  index: -1
+R arm
+  rotate: true
+  xy: 2, 595
+  size: 108, 480
+  orig: 108, 480
+  offset: 0, 0
+  index: -1
+R eyebow
+  rotate: false
+  xy: 82, 10
+  size: 43, 11
+  orig: 45, 13
+  offset: 1, 1
+  index: -1
+R jacket
+  rotate: 270
+  xy: 244, 177
+  size: 104, 315
+  orig: 104, 315
+  offset: 0, 0
+  index: -1
+R leg
+  rotate: true
+  xy: 2, 365
+  size: 108, 199
+  orig: 110, 201
+  offset: 1, 1
+  index: -1
+aura
+  rotate: false
+  xy: 2, 1051
+  size: 540, 920
+  orig: 622, 922
+  offset: 41, 1
+  index: -1
+bang hair
+  rotate: 180
+  xy: 213, 51
+  size: 178, 152
+  orig: 178, 152
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 752
+  size: 297, 560
+  orig: 297, 560
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 106
+  size: 99, 28
+  orig: 101, 30
+  offset: 1, 1
+  index: -1
+eyeball
+  rotate: false
+  xy: 37, 23
+  size: 64, 11
+  orig: 66, 13
+  offset: 1, 1
+  index: -1
+eyelid
+  rotate: false
+  xy: 2, 136
+  size: 106, 31
+  orig: 106, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 203, 320
+  size: 135, 153
+  orig: 137, 155
+  offset: 1, 1
+  index: -1
+hair1
+  rotate: false
+  xy: 544, 1489
+  size: 72, 215
+  orig: 72, 215
+  offset: 0, 0
+  index: -1
+hair10
+  rotate: 270
+  xy: 501, 142
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+hair11
+  rotate: false
+  xy: 578, 386
+  size: 117, 204
+  orig: 117, 204
+  offset: 0, 0
+  index: -1
+hair12
+  rotate: false
+  xy: 462, 428
+  size: 116, 202
+  orig: 118, 204
+  offset: 1, 1
+  index: -1
+hair13
+  rotate: true
+  xy: 2, 475
+  size: 117, 204
+  orig: 117, 204
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 580, 541
+  size: 78, 215
+  orig: 78, 215
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: 180
+  xy: 541, 1030
+  size: 117, 286
+  orig: 117, 286
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: 180
+  xy: 520, 640
+  size: 95, 294
+  orig: 95, 294
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 319, 251
+  size: 134, 280
+  orig: 134, 280
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: 270
+  xy: 301, 5
+  size: 138, 277
+  orig: 138, 277
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: false
+  xy: 569, 933
+  size: 124, 196
+  orig: 124, 196
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: false
+  xy: 544, 1315
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+hair9
+  rotate: true
+  xy: 481, 3
+  size: 160, 176
+  orig: 160, 176
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 36
+  size: 30, 29
+  orig: 40, 37
+  offset: 5, 3
+  index: -1
+light2
+  rotate: false
+  xy: 2, 67
+  size: 45, 37
+  orig: 51, 50
+  offset: 3, 6
+  index: -1
+light3
+  rotate: false
+  xy: 544, 1719
+  size: 30, 30
+  orig: 40, 39
+  offset: 5, 5
+  index: -1
+lower lip 2
+  rotate: false
+  xy: 37, 36
+  size: 36, 21
+  orig: 39, 24
+  offset: 1, 2
+  index: -1
+lower lip open
+  rotate: false
+  xy: 2, 9
+  size: 33, 25
+  orig: 35, 27
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 619, 759
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: 180
+  xy: 579, 1511
+  size: 115, 180
+  orig: 123, 200
+  offset: 8, 0
+  index: -1
+necktie
+  rotate: false
+  xy: 544, 1703
+  size: 76, 268
+  orig: 76, 268
+  offset: 0, 0
+  index: -1
+upper lip
+  rotate: false
+  xy: 127, 12
+  size: 32, 9
+  orig: 38, 16
+  offset: 1, 6
+  index: -1
+upper lip open
+  rotate: false
+  xy: 127, 23
+  size: 30, 11
+  orig: 33, 13
+  offset: 1, 1
+  index: -1

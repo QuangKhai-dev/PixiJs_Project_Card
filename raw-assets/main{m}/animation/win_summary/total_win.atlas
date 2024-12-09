@@ -1,0 +1,221 @@
+
+total_win.png
+size: 1994,2037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOTAL WIN
+  rotate: false
+  xy: 323, 116
+  size: 497, 105
+  orig: 503, 109
+  offset: 3, 2
+  index: -1
+bg
+  rotate: false
+  xy: 2, 857
+  size: 1407, 1178
+  orig: 1407, 1178
+  offset: 0, 0
+  index: -1
+cash_c10
+  rotate: false
+  xy: 1055, 16
+  size: 172, 205
+  orig: 172, 206
+  offset: 0, 0
+  index: -1
+cash_c11
+  rotate: true
+  xy: 1255, 721
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+cash_c8
+  rotate: false
+  xy: 2, 34
+  size: 319, 187
+  orig: 320, 187
+  offset: 1, 0
+  index: -1
+cash_c9
+  rotate: false
+  xy: 822, 23
+  size: 231, 198
+  orig: 231, 200
+  offset: 0, 1
+  index: -1
+chr_star
+  rotate: false
+  xy: 1952, 713
+  size: 40, 40
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+cloud1
+  rotate: true
+  xy: 1411, 713
+  size: 1322, 539
+  orig: 1354, 578
+  offset: 27, 1
+  index: -1
+freespin
+  rotate: false
+  xy: 323, 25
+  size: 459, 89
+  orig: 462, 93
+  offset: 1, 2
+  index: -1
+redmoon
+  rotate: false
+  xy: 1255, 2
+  size: 709, 709
+  orig: 725, 725
+  offset: 8, 8
+  index: -1
+thunder
+  rotate: true
+  xy: 2, 223
+  size: 632, 1251
+  orig: 640, 1254
+  offset: 5, 2
+  index: -1
+
+total_win2.png
+size: 1991,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat1
+  rotate: false
+  xy: 444, 123
+  size: 416, 270
+  orig: 417, 272
+  offset: 0, 1
+  index: -1
+blood
+  rotate: true
+  xy: 1673, 2
+  size: 1047, 316
+  orig: 1243, 316
+  offset: 56, 0
+  index: -1
+cash_c3
+  rotate: false
+  xy: 1092, 49
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+cash_c4
+  rotate: false
+  xy: 862, 46
+  size: 228, 200
+  orig: 230, 201
+  offset: 0, 0
+  index: -1
+cash_c5
+  rotate: false
+  xy: 2, 27
+  size: 440, 366
+  orig: 441, 367
+  offset: 1, 1
+  index: -1
+cash_c7
+  rotate: false
+  xy: 1324, 65
+  size: 188, 181
+  orig: 190, 183
+  offset: 1, 1
+  index: -1
+chr_cash_01
+  rotate: false
+  xy: 2, 395
+  size: 858, 412
+  orig: 858, 412
+  offset: 0, 0
+  index: -1
+effect_1
+  rotate: false
+  xy: 870, 248
+  size: 801, 801
+  orig: 801, 801
+  offset: 0, 0
+  index: -1
+moonlight
+  rotate: false
+  xy: 870, 1051
+  size: 990, 991
+  orig: 1010, 1011
+  offset: 10, 10
+  index: -1
+paricle FX light idle
+  rotate: false
+  xy: 2, 809
+  size: 866, 1233
+  orig: 866, 1238
+  offset: 0, 2
+  index: -1
+
+total_win3.png
+size: 1960,1469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat2
+  rotate: true
+  xy: 1658, 93
+  size: 441, 285
+  orig: 442, 286
+  offset: 0, 1
+  index: -1
+bat3
+  rotate: false
+  xy: 923, 148
+  size: 733, 460
+  orig: 734, 460
+  offset: 1, 0
+  index: -1
+bat4
+  rotate: false
+  xy: 2, 437
+  size: 919, 576
+  orig: 920, 576
+  offset: 0, 0
+  index: -1
+cash_c1
+  rotate: false
+  xy: 2, 2
+  size: 536, 433
+  orig: 536, 433
+  offset: 0, 0
+  index: -1
+cash_c2
+  rotate: true
+  xy: 1594, 1029
+  size: 438, 364
+  orig: 438, 365
+  offset: 0, 1
+  index: -1
+cash_c6
+  rotate: true
+  xy: 1658, 536
+  size: 491, 300
+  orig: 493, 302
+  offset: 1, 1
+  index: -1
+chr_cash_02
+  rotate: true
+  xy: 1180, 610
+  size: 858, 412
+  orig: 858, 412
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 1015
+  size: 1176, 452
+  orig: 1204, 456
+  offset: 24, 1
+  index: -1

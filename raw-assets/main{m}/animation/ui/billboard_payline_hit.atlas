@@ -1,0 +1,41 @@
+
+billboard_payline_hit.png
+size: 1860,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P1_light_02
+  rotate: false
+  xy: 1754, 7
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+billboard
+  rotate: false
+  xy: 2, 2
+  size: 582, 72
+  orig: 582, 72
+  offset: 0, 0
+  index: -1
+billboard_1
+  rotate: false
+  xy: 586, 2
+  size: 582, 72
+  orig: 582, 72
+  offset: 0, 0
+  index: -1
+billboard_3
+  rotate: false
+  xy: 1170, 2
+  size: 582, 72
+  orig: 582, 72
+  offset: 0, 0
+  index: -1
+wild_2_bat3
+  rotate: true
+  xy: 1822, 14
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1

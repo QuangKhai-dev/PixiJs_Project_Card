@@ -1,0 +1,174 @@
+
+wild_symbol_size1.png
+size: 183,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wild_1_body
+  rotate: false
+  xy: 2, 197
+  size: 136, 116
+  orig: 138, 117
+  offset: 1, 0
+  index: -1
+wild_1_frame
+  rotate: false
+  xy: 2, 588
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+wild_1_frame_w
+  rotate: false
+  xy: 2, 726
+  size: 142, 142
+  orig: 164, 164
+  offset: 11, 11
+  index: -1
+wild_1_glow
+  rotate: false
+  xy: 2, 450
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+wild_1_moon
+  rotate: false
+  xy: 2, 315
+  size: 133, 133
+  orig: 135, 135
+  offset: 1, 1
+  index: -1
+wild_2_aura
+  rotate: false
+  xy: 2, 1550
+  size: 136, 488
+  orig: 138, 490
+  offset: 1, 1
+  index: -1
+wild_2_auraFront
+  rotate: false
+  xy: 2, 1161
+  size: 136, 387
+  orig: 138, 389
+  offset: 1, 1
+  index: -1
+wild_2_basegame_eyes
+  rotate: true
+  xy: 132, 916
+  size: 55, 25
+  orig: 57, 27
+  offset: 1, 1
+  index: -1
+wild_2_bat1
+  rotate: true
+  xy: 137, 421
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+wild_2_bat2
+  rotate: true
+  xy: 125, 3
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1
+wild_2_bat3
+  rotate: true
+  xy: 140, 1860
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+wild_2_close_eyes
+  rotate: true
+  xy: 140, 1922
+  size: 53, 14
+  orig: 55, 16
+  offset: 1, 1
+  index: -1
+wild_2_dust
+  rotate: false
+  xy: 2, 870
+  size: 128, 289
+  orig: 130, 291
+  offset: 1, 1
+  index: -1
+wild_2_earing
+  rotate: false
+  xy: 140, 1832
+  size: 9, 26
+  orig: 11, 28
+  offset: 1, 1
+  index: -1
+wild_2_eyeAura
+  rotate: true
+  xy: 137, 363
+  size: 56, 22
+  orig: 58, 24
+  offset: 1, 1
+  index: -1
+wild_2_face
+  rotate: true
+  xy: 2, 94
+  size: 101, 106
+  orig: 103, 108
+  offset: 1, 1
+  index: -1
+wild_2_freespin_eyes
+  rotate: true
+  xy: 132, 973
+  size: 56, 25
+  orig: 58, 27
+  offset: 1, 1
+  index: -1
+wild_2_freespin_mouth
+  rotate: false
+  xy: 137, 343
+  size: 28, 18
+  orig: 30, 20
+  offset: 1, 1
+  index: -1
+wild_2_front_hair
+  rotate: true
+  xy: 132, 858
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+wild_2_glasses
+  rotate: true
+  xy: 140, 1977
+  size: 61, 19
+  orig: 63, 21
+  offset: 1, 1
+  index: -1
+wild_2_middle_hair
+  rotate: false
+  xy: 34, 4
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+wild_2_necklace
+  rotate: false
+  xy: 110, 106
+  size: 59, 89
+  orig: 61, 91
+  offset: 1, 1
+  index: -1
+wild_2_star
+  rotate: false
+  xy: 137, 325
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+wild_2_wild text
+  rotate: true
+  xy: 132, 1031
+  size: 128, 41
+  orig: 130, 43
+  offset: 1, 1
+  index: -1

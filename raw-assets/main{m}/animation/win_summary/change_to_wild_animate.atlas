@@ -1,0 +1,118 @@
+
+change_to_wild_animate.png
+size: 2008,1708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 528
+  size: 1407, 1178
+  orig: 1407, 1178
+  offset: 0, 0
+  index: -1
+change to wild_text
+  rotate: false
+  xy: 1411, 980
+  size: 537, 143
+  orig: 539, 144
+  offset: 1, 0
+  index: -1
+freespin_basegame_eyes
+  rotate: false
+  xy: 2, 2
+  size: 218, 95
+  orig: 218, 97
+  offset: 0, 1
+  index: -1
+freespin_cash
+  rotate: false
+  xy: 2, 99
+  size: 1596, 427
+  orig: 1606, 429
+  offset: 7, 2
+  index: -1
+freespin_earing
+  rotate: false
+  xy: 1411, 664
+  size: 30, 102
+  orig: 30, 102
+  offset: 0, 0
+  index: -1
+freespin_eyes
+  rotate: false
+  xy: 1600, 19
+  size: 223, 95
+  orig: 225, 97
+  offset: 2, 1
+  index: -1
+freespin_eyes_close
+  rotate: false
+  xy: 716, 50
+  size: 198, 47
+  orig: 201, 49
+  offset: 2, 1
+  index: -1
+freespin_face
+  rotate: false
+  xy: 1600, 528
+  size: 333, 327
+  orig: 335, 327
+  offset: 1, 0
+  index: -1
+freespin_flare1
+  rotate: true
+  xy: 1935, 452
+  size: 321, 71
+  orig: 334, 87
+  offset: 4, 9
+  index: -1
+freespin_flare2
+  rotate: false
+  xy: 1411, 906
+  size: 321, 72
+  orig: 334, 87
+  offset: 4, 8
+  index: -1
+freespin_front_hair
+  rotate: true
+  xy: 1411, 683
+  size: 222, 170
+  orig: 222, 170
+  offset: 0, 0
+  index: -1
+freespin_glasses
+  rotate: false
+  xy: 222, 26
+  size: 246, 71
+  orig: 246, 71
+  offset: 0, 0
+  index: -1
+freespin_glasses_1
+  rotate: false
+  xy: 470, 26
+  size: 244, 71
+  orig: 246, 71
+  offset: 1, 0
+  index: -1
+freespin_middle_hair
+  rotate: true
+  xy: 1600, 116
+  size: 410, 351
+  orig: 410, 351
+  offset: 0, 0
+  index: -1
+freespin_star
+  rotate: false
+  xy: 916, 35
+  size: 62, 62
+  orig: 65, 66
+  offset: 2, 1
+  index: -1
+fx_particle
+  rotate: true
+  xy: 1411, 1125
+  size: 581, 540
+  orig: 589, 549
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,55 @@
+
+q_symbol.png
+size: 140,1685
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal_Q
+  rotate: false
+  xy: 2, 83
+  size: 89, 79
+  orig: 91, 81
+  offset: 1, 1
+  index: -1
+normal_Q shadow
+  rotate: false
+  xy: 2, 2
+  size: 89, 79
+  orig: 91, 81
+  offset: 1, 1
+  index: -1
+normal_frame1x1
+  rotate: false
+  xy: 2, 164
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+normal_frame1x2
+  rotate: false
+  xy: 2, 455
+  size: 136, 272
+  orig: 138, 274
+  offset: 1, 1
+  index: -1
+normal_frame1x3
+  rotate: false
+  xy: 2, 729
+  size: 136, 408
+  orig: 138, 410
+  offset: 1, 1
+  index: -1
+normal_frame1x4
+  rotate: false
+  xy: 2, 1139
+  size: 136, 544
+  orig: 138, 546
+  offset: 1, 1
+  index: -1
+normal_light
+  rotate: false
+  xy: 2, 302
+  size: 136, 151
+  orig: 138, 153
+  offset: 1, 1
+  index: -1

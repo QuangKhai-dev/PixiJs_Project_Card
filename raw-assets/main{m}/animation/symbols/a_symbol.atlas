@@ -1,0 +1,55 @@
+
+a_symbol.png
+size: 140,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal_A
+  rotate: false
+  xy: 2, 2
+  size: 97, 80
+  orig: 99, 82
+  offset: 1, 1
+  index: -1
+normal_A shadow
+  rotate: false
+  xy: 2, 84
+  size: 97, 81
+  orig: 99, 83
+  offset: 1, 1
+  index: -1
+normal_frame1x1
+  rotate: false
+  xy: 2, 167
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+normal_frame1x2
+  rotate: false
+  xy: 2, 458
+  size: 136, 272
+  orig: 138, 274
+  offset: 1, 1
+  index: -1
+normal_frame1x3
+  rotate: false
+  xy: 2, 732
+  size: 136, 408
+  orig: 138, 410
+  offset: 1, 1
+  index: -1
+normal_frame1x4
+  rotate: false
+  xy: 2, 1142
+  size: 136, 544
+  orig: 138, 546
+  offset: 1, 1
+  index: -1
+normal_light
+  rotate: false
+  xy: 2, 305
+  size: 136, 151
+  orig: 138, 153
+  offset: 1, 1
+  index: -1

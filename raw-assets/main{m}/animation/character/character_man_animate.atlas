@@ -1,0 +1,202 @@
+
+character_man_animate.png
+size: 1291,1583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 143
+  rotate: 270
+  xy: 462, 58
+  size: 261, 307
+  orig: 261, 307
+  offset: 0, 0
+  index: -1
+armL
+  rotate: 270
+  xy: 852, 46
+  size: 96, 314
+  orig: 96, 316
+  offset: 0, 2
+  index: -1
+armR
+  rotate: true
+  xy: 2, 88
+  size: 82, 346
+  orig: 82, 346
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 729, 661
+  size: 540, 920
+  orig: 622, 922
+  offset: 41, 1
+  index: -1
+auraFront
+  rotate: false
+  xy: 2, 835
+  size: 725, 746
+  orig: 725, 746
+  offset: 0, 0
+  index: -1
+basegame_eyes
+  rotate: false
+  xy: 466, 11
+  size: 87, 39
+  orig: 89, 41
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 674, 362
+  size: 297, 440
+  orig: 297, 440
+  offset: 0, 0
+  index: -1
+close_eyes
+  rotate: false
+  xy: 555, 11
+  size: 90, 23
+  orig: 90, 23
+  offset: 0, 0
+  index: -1
+dust
+  rotate: true
+  xy: 2, 308
+  size: 525, 670
+  orig: 528, 673
+  offset: 2, 1
+  index: -1
+earing
+  rotate: false
+  xy: 674, 735
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+ef4
+  rotate: false
+  xy: 2, 9
+  size: 129, 92
+  orig: 137, 94
+  offset: 7, 2
+  index: -1
+ef5
+  rotate: 180
+  xy: 1121, 248
+  size: 159, 125
+  orig: 166, 135
+  offset: 5, 0
+  index: -1
+ef6
+  rotate: false
+  xy: 117, 16
+  size: 102, 75
+  orig: 118, 81
+  offset: 9, 2
+  index: -1
+eyeAura
+  rotate: false
+  xy: 195, 269
+  size: 96, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 730, 82
+  size: 164, 172
+  orig: 164, 172
+  offset: 0, 0
+  index: -1
+freespin_eyes
+  rotate: false
+  xy: 219, 16
+  size: 89, 39
+  orig: 91, 41
+  offset: 1, 1
+  index: -1
+freespin_mouth
+  rotate: false
+  xy: 674, 805
+  size: 46, 28
+  orig: 48, 32
+  offset: 1, 1
+  index: -1
+front_hair
+  rotate: false
+  xy: 653, 7
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 555, 36
+  size: 98, 29
+  orig: 100, 31
+  offset: 1, 1
+  index: -1
+legL
+  rotate: true
+  xy: 754, 242
+  size: 137, 317
+  orig: 137, 317
+  offset: 0, 0
+  index: -1
+legL_c
+  rotate: true
+  xy: 2, 169
+  size: 137, 317
+  orig: 137, 317
+  offset: 0, 0
+  index: -1
+legR
+  rotate: true
+  xy: 320, 171
+  size: 136, 294
+  orig: 140, 294
+  offset: 4, 0
+  index: -1
+legR_c
+  rotate: 270
+  xy: 954, 124
+  size: 136, 294
+  orig: 140, 294
+  offset: 4, 0
+  index: -1
+middle_hair
+  rotate: true
+  xy: 320, 7
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 699, 4
+  size: 95, 146
+  orig: 95, 146
+  offset: 0, 0
+  index: -1
+scrafBack1
+  rotate: 270
+  xy: 1149, 18
+  size: 165, 139
+  orig: 165, 139
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 674, 779
+  size: 24, 24
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+suitBack
+  rotate: 270
+  xy: 1047, 272
+  size: 387, 195
+  orig: 387, 195
+  offset: 0, 0
+  index: -1

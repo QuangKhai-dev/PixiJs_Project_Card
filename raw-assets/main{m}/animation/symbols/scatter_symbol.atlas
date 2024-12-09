@@ -1,0 +1,237 @@
+
+scatter_symbol.png
+size: 379,1118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paricle FX light idle
+  rotate: false
+  xy: 2, 617
+  size: 349, 499
+  orig: 349, 500
+  offset: 0, 0
+  index: -1
+scatter_1_frame
+  rotate: false
+  xy: 175, 349
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+scatter_1_glow
+  rotate: false
+  xy: 2, 211
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+scatter_1_moon
+  rotate: false
+  xy: 140, 214
+  size: 133, 133
+  orig: 135, 135
+  offset: 1, 1
+  index: -1
+scatter_2_L arm
+  rotate: false
+  xy: 142, 21
+  size: 37, 47
+  orig: 37, 127
+  offset: 0, 80
+  index: -1
+scatter_2_L eyebow
+  rotate: false
+  xy: 237, 3
+  size: 23, 6
+  orig: 25, 8
+  offset: 1, 1
+  index: -1
+scatter_2_L jacket
+  rotate: false
+  xy: 2, 45
+  size: 77, 67
+  orig: 77, 172
+  offset: 0, 105
+  index: -1
+scatter_2_P1
+  rotate: true
+  xy: 194, 44
+  size: 65, 67
+  orig: 65, 105
+  offset: 0, 38
+  index: -1
+scatter_2_R arm
+  rotate: false
+  xy: 46, 4
+  size: 32, 40
+  orig: 32, 246
+  offset: 0, 206
+  index: -1
+scatter_2_R eyebow
+  rotate: false
+  xy: 115, 6
+  size: 24, 7
+  orig: 26, 9
+  offset: 1, 1
+  index: -1
+scatter_2_R jacket
+  rotate: true
+  xy: 81, 15
+  size: 52, 60
+  orig: 52, 165
+  offset: 0, 105
+  index: -1
+scatter_2_bang hair
+  rotate: false
+  xy: 277, 82
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+scatter_2_black
+  rotate: false
+  xy: 2, 113
+  size: 136, 41
+  orig: 138, 43
+  offset: 1, 1
+  index: -1
+scatter_2_body
+  rotate: 270
+  xy: 274, 209
+  size: 138, 88
+  orig: 138, 292
+  offset: 0, 204
+  index: -1
+scatter_2_eye
+  rotate: false
+  xy: 142, 4
+  size: 52, 15
+  orig: 54, 17
+  offset: 1, 1
+  index: -1
+scatter_2_eyeball
+  rotate: false
+  xy: 80, 7
+  size: 33, 6
+  orig: 35, 8
+  offset: 1, 1
+  index: -1
+scatter_2_eyelid
+  rotate: false
+  xy: 196, 21
+  size: 55, 13
+  orig: 57, 15
+  offset: 1, 1
+  index: -1
+scatter_2_face
+  rotate: false
+  xy: 293, 496
+  size: 71, 80
+  orig: 73, 82
+  offset: 1, 1
+  index: -1
+scatter_2_hair1
+  rotate: true
+  xy: 262, 43
+  size: 37, 110
+  orig: 39, 112
+  offset: 1, 1
+  index: -1
+scatter_2_hair2
+  rotate: true
+  xy: 81, 69
+  size: 40, 111
+  orig: 42, 113
+  offset: 1, 1
+  index: -1
+scatter_2_hair3
+  rotate: true
+  xy: 2, 156
+  size: 53, 148
+  orig: 55, 150
+  offset: 1, 1
+  index: -1
+scatter_2_hair4
+  rotate: true
+  xy: 152, 159
+  size: 48, 152
+  orig: 50, 154
+  offset: 1, 1
+  index: -1
+scatter_2_hair5
+  rotate: false
+  xy: 313, 349
+  size: 58, 145
+  orig: 60, 147
+  offset: 1, 1
+  index: -1
+scatter_2_hair6
+  rotate: true
+  xy: 152, 111
+  size: 46, 123
+  orig: 48, 125
+  offset: 1, 1
+  index: -1
+scatter_2_hair7
+  rotate: true
+  xy: 2, 349
+  size: 136, 171
+  orig: 138, 173
+  offset: 1, 1
+  index: -1
+scatter_2_lower lip 2
+  rotate: false
+  xy: 216, 8
+  size: 19, 11
+  orig: 21, 13
+  offset: 1, 1
+  index: -1
+scatter_2_lower lip open
+  rotate: false
+  xy: 196, 5
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+scatter_2_neck
+  rotate: true
+  xy: 306, 164
+  size: 37, 56
+  orig: 39, 58
+  offset: 1, 1
+  index: -1
+scatter_2_necktie
+  rotate: true
+  xy: 2, 3
+  size: 40, 43
+  orig: 40, 141
+  offset: 0, 98
+  index: -1
+scatter_2_text
+  rotate: true
+  xy: 353, 578
+  size: 130, 24
+  orig: 132, 26
+  offset: 1, 1
+  index: -1
+scatter_2_upper lip
+  rotate: false
+  xy: 237, 11
+  size: 19, 8
+  orig: 21, 10
+  offset: 1, 1
+  index: -1
+scatter_2_upper lip open
+  rotate: false
+  xy: 262, 11
+  size: 16, 6
+  orig: 18, 8
+  offset: 1, 1
+  index: -1
+wild_2_dust
+  rotate: true
+  xy: 2, 487
+  size: 128, 289
+  orig: 130, 291
+  offset: 1, 1
+  index: -1

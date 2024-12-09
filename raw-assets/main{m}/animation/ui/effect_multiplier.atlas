@@ -1,0 +1,27 @@
+
+effect_multiplier.png
+size: 1613,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_particle
+  rotate: false
+  xy: 2, 2
+  size: 734, 684
+  orig: 736, 686
+  offset: 1, 1
+  index: -1
+multiplier_basegame
+  rotate: true
+  xy: 1181, 2
+  size: 437, 430
+  orig: 453, 453
+  offset: 8, 8
+  index: -1
+multiplier_basegame_1
+  rotate: true
+  xy: 738, 2
+  size: 444, 441
+  orig: 551, 551
+  offset: 53, 54
+  index: -1

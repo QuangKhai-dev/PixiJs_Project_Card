@@ -1,0 +1,104 @@
+
+p3_symbol.png
+size: 212,2023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P3_coffin
+  rotate: false
+  xy: 2, 277
+  size: 116, 92
+  orig: 118, 94
+  offset: 1, 1
+  index: -1
+P3_coffin_1
+  rotate: false
+  xy: 2, 183
+  size: 116, 92
+  orig: 118, 94
+  offset: 1, 1
+  index: -1
+P3_cover
+  rotate: true
+  xy: 113, 86
+  size: 95, 90
+  orig: 97, 92
+  offset: 1, 1
+  index: -1
+P3_cover_1
+  rotate: true
+  xy: 119, 391
+  size: 95, 90
+  orig: 97, 92
+  offset: 1, 1
+  index: -1
+P3_cr1
+  rotate: true
+  xy: 2, 84
+  size: 97, 109
+  orig: 99, 111
+  offset: 1, 1
+  index: -1
+P3_cr2
+  rotate: false
+  xy: 2, 371
+  size: 115, 115
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+P3_cr3
+  rotate: false
+  xy: 120, 233
+  size: 64, 63
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+P3_cr4
+  rotate: false
+  xy: 120, 298
+  size: 90, 91
+  orig: 92, 93
+  offset: 1, 1
+  index: -1
+P3_frame1x1
+  rotate: false
+  xy: 2, 488
+  size: 136, 137
+  orig: 138, 141
+  offset: 1, 2
+  index: -1
+P3_frame1x2
+  rotate: false
+  xy: 2, 786
+  size: 136, 275
+  orig: 138, 276
+  offset: 1, 0
+  index: -1
+P3_frame1x3
+  rotate: false
+  xy: 2, 1063
+  size: 136, 412
+  orig: 138, 412
+  offset: 1, 0
+  index: -1
+P3_frame1x4
+  rotate: false
+  xy: 2, 1477
+  size: 136, 544
+  orig: 138, 546
+  offset: 1, 1
+  index: -1
+P3_glow
+  rotate: true
+  xy: 2, 2
+  size: 80, 120
+  orig: 82, 122
+  offset: 1, 1
+  index: -1
+P3_light
+  rotate: false
+  xy: 2, 627
+  size: 136, 157
+  orig: 138, 159
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+p4_symbol.png
+size: 167,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P4_cr1
+  rotate: true
+  xy: 2, 333
+  size: 97, 109
+  orig: 99, 111
+  offset: 1, 1
+  index: -1
+P4_cr2
+  rotate: false
+  xy: 2, 432
+  size: 115, 115
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+P4_cr3
+  rotate: true
+  xy: 102, 68
+  size: 64, 63
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+P4_cr4
+  rotate: true
+  xy: 2, 148
+  size: 90, 91
+  orig: 92, 93
+  offset: 1, 1
+  index: -1
+P4_cross
+  rotate: false
+  xy: 102, 18
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+P4_face
+  rotate: false
+  xy: 2, 75
+  size: 98, 71
+  orig: 100, 73
+  offset: 1, 1
+  index: -1
+P4_face_1
+  rotate: false
+  xy: 113, 357
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+P4_face_2
+  rotate: false
+  xy: 2, 2
+  size: 98, 71
+  orig: 100, 73
+  offset: 1, 1
+  index: -1
+P4_frame1x1
+  rotate: false
+  xy: 2, 673
+  size: 136, 137
+  orig: 138, 139
+  offset: 1, 1
+  index: -1
+P4_frame1x2
+  rotate: false
+  xy: 2, 812
+  size: 136, 275
+  orig: 138, 275
+  offset: 1, 0
+  index: -1
+P4_frame1x3
+  rotate: false
+  xy: 2, 1089
+  size: 136, 411
+  orig: 138, 411
+  offset: 1, 0
+  index: -1
+P4_frame1x4
+  rotate: false
+  xy: 2, 1502
+  size: 136, 544
+  orig: 138, 546
+  offset: 1, 1
+  index: -1
+P4_glow
+  rotate: true
+  xy: 102, 134
+  size: 104, 54
+  orig: 106, 56
+  offset: 1, 1
+  index: -1
+P4_light
+  rotate: false
+  xy: 2, 549
+  size: 134, 122
+  orig: 136, 124
+  offset: 1, 1
+  index: -1
+P4_phone
+  rotate: false
+  xy: 2, 240
+  size: 110, 91
+  orig: 112, 93
+  offset: 1, 1
+  index: -1

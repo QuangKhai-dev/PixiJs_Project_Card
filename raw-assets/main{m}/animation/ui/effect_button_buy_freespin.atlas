@@ -1,0 +1,20 @@
+
+effect_button_buy_freespin.png
+size: 243,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui/buyfreespin_btn
+  rotate: true
+  xy: 142, 2
+  size: 410, 99
+  orig: 410, 99
+  offset: 0, 0
+  index: -1
+ui/wild_2_auraFront1
+  rotate: false
+  xy: 2, 2
+  size: 138, 434
+  orig: 138, 463
+  offset: 0, 29
+  index: -1

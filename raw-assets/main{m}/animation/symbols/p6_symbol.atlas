@@ -1,0 +1,76 @@
+
+p6_symbol.png
+size: 140,1968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P6_cr1
+  rotate: true
+  xy: 2, 216
+  size: 97, 109
+  orig: 99, 111
+  offset: 1, 1
+  index: -1
+P6_cr2
+  rotate: false
+  xy: 2, 315
+  size: 115, 115
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+P6_cr3
+  rotate: false
+  xy: 2, 2
+  size: 64, 63
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+P6_cr4
+  rotate: true
+  xy: 2, 124
+  size: 90, 91
+  orig: 92, 93
+  offset: 1, 1
+  index: -1
+P6_frame1x1
+  rotate: false
+  xy: 2, 432
+  size: 136, 137
+  orig: 138, 139
+  offset: 1, 1
+  index: -1
+P6_frame1x2
+  rotate: false
+  xy: 2, 730
+  size: 136, 275
+  orig: 138, 275
+  offset: 1, 0
+  index: -1
+P6_frame1x3
+  rotate: false
+  xy: 2, 1007
+  size: 136, 413
+  orig: 138, 413
+  offset: 1, 0
+  index: -1
+P6_frame1x4
+  rotate: false
+  xy: 2, 1422
+  size: 136, 544
+  orig: 138, 546
+  offset: 1, 1
+  index: -1
+P6_glass
+  rotate: true
+  xy: 2, 67
+  size: 55, 121
+  orig: 57, 123
+  offset: 1, 1
+  index: -1
+P6_light
+  rotate: false
+  xy: 2, 571
+  size: 136, 157
+  orig: 138, 159
+  offset: 1, 1
+  index: -1

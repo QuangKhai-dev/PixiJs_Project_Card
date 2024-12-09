@@ -1,0 +1,62 @@
+
+tumble.png
+size: 609,1199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal_frame_1
+  rotate: false
+  xy: 2, 2
+  size: 142, 142
+  orig: 164, 164
+  offset: 11, 11
+  index: -1
+normal_frame_2
+  rotate: false
+  xy: 459, 133
+  size: 142, 278
+  orig: 178, 312
+  offset: 18, 17
+  index: -1
+normal_frame_3
+  rotate: true
+  xy: 2, 269
+  size: 142, 414
+  orig: 176, 450
+  offset: 17, 18
+  index: -1
+normal_frame_4
+  rotate: true
+  xy: 2, 553
+  size: 142, 550
+  orig: 176, 576
+  offset: 17, 13
+  index: -1
+paricle FX light idle
+  rotate: false
+  xy: 2, 698
+  size: 349, 499
+  orig: 349, 500
+  offset: 0, 0
+  index: -1
+thunder
+  rotate: false
+  xy: 353, 697
+  size: 254, 500
+  orig: 255, 500
+  offset: 0, 0
+  index: -1
+wild_2_auraFront1
+  rotate: true
+  xy: 2, 413
+  size: 138, 549
+  orig: 138, 549
+  offset: 0, 0
+  index: -1
+wild_2_dust_1
+  rotate: true
+  xy: 2, 146
+  size: 121, 455
+  orig: 130, 455
+  offset: 3, 0
+  index: -1

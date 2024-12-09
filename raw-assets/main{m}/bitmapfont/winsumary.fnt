@@ -1,0 +1,23 @@
+info face="winsumary" size=154bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=154 base=26 scaleW=512 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file=".\winsumary.png"
+chars count=17
+char id=48 x=0 y=800 width=143 height=160 xoffset=0 yoffset=-6 xadvance=144 page=0 chnl=0 letter="0"
+char id=49 x=152 y=0 width=96 height=159 xoffset=0 yoffset=-5 xadvance=97 page=0 chnl=0 letter="1"
+char id=50 x=0 y=0 width=151 height=159 xoffset=0 yoffset=-5 xadvance=152 page=0 chnl=0 letter="2"
+char id=51 x=0 y=480 width=145 height=159 xoffset=0 yoffset=-5 xadvance=146 page=0 chnl=0 letter="3"
+char id=52 x=0 y=640 width=144 height=159 xoffset=0 yoffset=-5 xadvance=145 page=0 chnl=0 letter="4"
+char id=53 x=0 y=320 width=147 height=159 xoffset=0 yoffset=-5 xadvance=148 page=0 chnl=0 letter="5"
+char id=54 x=146 y=480 width=139 height=159 xoffset=0 yoffset=-5 xadvance=140 page=0 chnl=0 letter="6"
+char id=55 x=145 y=640 width=140 height=159 xoffset=0 yoffset=-5 xadvance=141 page=0 chnl=0 letter="7"
+char id=56 x=0 y=160 width=148 height=159 xoffset=0 yoffset=-5 xadvance=149 page=0 chnl=0 letter="8"
+char id=57 x=144 y=800 width=140 height=160 xoffset=0 yoffset=-5 xadvance=141 page=0 chnl=0 letter="9"
+char id=46 x=278 y=100 width=72 height=66 xoffset=0 yoffset=88 xadvance=73 page=0 chnl=0 letter="."
+char id=44 x=249 y=0 width=78 height=99 xoffset=0 yoffset=89 xadvance=79 page=0 chnl=0 letter=","
+char id=45 x=0 y=961 width=120 height=58 xoffset=0 yoffset=45 xadvance=121 page=0 chnl=0 letter="-"
+char id=43 x=149 y=160 width=128 height=126 xoffset=0 yoffset=11 xadvance=129 page=0 chnl=0 letter="+"
+char id=120 x=148 y=320 width=131 height=126 xoffset=0 yoffset=28 xadvance=132 page=0 chnl=0 letter="x"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

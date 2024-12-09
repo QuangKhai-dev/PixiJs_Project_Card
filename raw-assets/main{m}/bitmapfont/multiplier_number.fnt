@@ -1,0 +1,23 @@
+info face="multiplier_number" size=138bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=138 base=26 scaleW=512 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file=".\multiplier_number.png"
+chars count=17
+char id=48 x=0 y=612 width=138 height=152 xoffset=0 yoffset=-14 xadvance=139 page=0 chnl=0 letter="0"
+char id=49 x=145 y=0 width=99 height=151 xoffset=0 yoffset=-13 xadvance=100 page=0 chnl=0 letter="1"
+char id=50 x=0 y=0 width=144 height=152 xoffset=0 yoffset=-14 xadvance=145 page=0 chnl=0 letter="2"
+char id=51 x=0 y=459 width=138 height=152 xoffset=0 yoffset=-14 xadvance=139 page=0 chnl=0 letter="3"
+char id=52 x=0 y=765 width=137 height=152 xoffset=0 yoffset=-14 xadvance=138 page=0 chnl=0 letter="4"
+char id=53 x=0 y=306 width=140 height=152 xoffset=0 yoffset=-14 xadvance=141 page=0 chnl=0 letter="5"
+char id=54 x=141 y=306 width=134 height=152 xoffset=0 yoffset=-14 xadvance=135 page=0 chnl=0 letter="6"
+char id=55 x=139 y=459 width=134 height=152 xoffset=0 yoffset=-14 xadvance=135 page=0 chnl=0 letter="7"
+char id=56 x=0 y=153 width=142 height=152 xoffset=0 yoffset=-14 xadvance=143 page=0 chnl=0 letter="8"
+char id=57 x=138 y=765 width=134 height=152 xoffset=0 yoffset=-14 xadvance=135 page=0 chnl=0 letter="9"
+char id=46 x=204 y=918 width=79 height=76 xoffset=0 yoffset=62 xadvance=80 page=0 chnl=0 letter="."
+char id=44 x=119 y=918 width=84 height=101 xoffset=0 yoffset=63 xadvance=85 page=0 chnl=0 letter=","
+char id=45 x=0 y=918 width=118 height=70 xoffset=0 yoffset=27 xadvance=119 page=0 chnl=0 letter="-"
+char id=43 x=143 y=153 width=125 height=125 xoffset=0 yoffset=-1 xadvance=126 page=0 chnl=0 letter="+"
+char id=120 x=139 y=612 width=126 height=124 xoffset=0 yoffset=14 xadvance=127 page=0 chnl=0 letter="x"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

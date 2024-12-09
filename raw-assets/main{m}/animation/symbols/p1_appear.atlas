@@ -1,0 +1,41 @@
+
+p1_appear.png
+size: 445,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P4_cr4
+  rotate: false
+  xy: 209, 20
+  size: 90, 91
+  orig: 92, 93
+  offset: 1, 1
+  index: -1
+P6_cr1
+  rotate: false
+  xy: 110, 2
+  size: 97, 109
+  orig: 99, 111
+  offset: 1, 1
+  index: -1
+X2
+  rotate: true
+  xy: 301, 2
+  size: 109, 70
+  orig: 116, 92
+  offset: 2, 17
+  index: -1
+X2_1
+  rotate: true
+  xy: 373, 2
+  size: 109, 70
+  orig: 116, 92
+  offset: 2, 17
+  index: -1
+flare FX
+  rotate: false
+  xy: 2, 5
+  size: 106, 106
+  orig: 108, 108
+  offset: 1, 1
+  index: -1

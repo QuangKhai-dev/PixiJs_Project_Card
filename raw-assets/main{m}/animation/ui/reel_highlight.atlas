@@ -1,0 +1,27 @@
+
+reel_highlight.png
+size: 493,691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paricle FX light idle
+  rotate: false
+  xy: 2, 190
+  size: 349, 499
+  orig: 349, 500
+  offset: 0, 0
+  index: -1
+wild_2_auraFront1
+  rotate: false
+  xy: 353, 140
+  size: 138, 549
+  orig: 138, 549
+  offset: 0, 0
+  index: -1
+wild_2_aura_1
+  rotate: true
+  xy: 2, 2
+  size: 136, 488
+  orig: 138, 490
+  offset: 1, 1
+  index: -1

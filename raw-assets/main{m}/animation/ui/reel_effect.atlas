@@ -1,0 +1,13 @@
+
+reel_effect.png
+size: 846,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+efx_reel
+  rotate: false
+  xy: 2, 2
+  size: 842, 131
+  orig: 842, 131
+  offset: 0, 0
+  index: -1
