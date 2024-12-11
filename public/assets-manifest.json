@@ -1,0 +1,1649 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "main",
+      "assets": [
+        {
+          "alias": [
+            "main/animation/character/character_man_animate.atlas"
+          ],
+          "src": [
+            "main/animation/character/character_man_animate.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/character/character_man_animate.json"
+          ],
+          "src": [
+            "main/animation/character/character_man_animate.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/character/character_man_animate.png"
+          ],
+          "src": [
+            "main/animation/character/character_man_animate.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/character/character_woman_animate.atlas"
+          ],
+          "src": [
+            "main/animation/character/character_woman_animate.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/character/character_woman_animate.json"
+          ],
+          "src": [
+            "main/animation/character/character_woman_animate.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/character/character_woman_animate.png"
+          ],
+          "src": [
+            "main/animation/character/character_woman_animate.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/10_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/10_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/10_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/10_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/10_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/10_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/a_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/a_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/a_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/a_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/a_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/a_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/j_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/j_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/j_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/j_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/j_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/j_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/k_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/k_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/k_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/k_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/k_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/k_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_appear.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p1_appear.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_appear.json"
+          ],
+          "src": [
+            "main/animation/symbols/p1_appear.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_appear.png"
+          ],
+          "src": [
+            "main/animation/symbols/p1_appear.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p1_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p1_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p1_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p1_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p2_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p2_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p2_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p2_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p2_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p2_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p3_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p3_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p3_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p3_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p3_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p3_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p4_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p4_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p4_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p4_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p4_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p4_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p5_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p5_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p5_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p5_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p5_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p5_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p6_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/p6_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p6_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/p6_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/p6_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/p6_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/q_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/q_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/q_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/q_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/q_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/q_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/scatter_symbol.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/scatter_symbol.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/scatter_symbol.json"
+          ],
+          "src": [
+            "main/animation/symbols/scatter_symbol.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/scatter_symbol.png"
+          ],
+          "src": [
+            "main/animation/symbols/scatter_symbol.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size1.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size1.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size1.json"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size1.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size1.png"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size1.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size2.atlas"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size2.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size2.json"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size2.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/symbols/wild_symbol_size2.png"
+          ],
+          "src": [
+            "main/animation/symbols/wild_symbol_size2.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/billboard_payline_hit.atlas"
+          ],
+          "src": [
+            "main/animation/ui/billboard_payline_hit.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/billboard_payline_hit.json"
+          ],
+          "src": [
+            "main/animation/ui/billboard_payline_hit.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/billboard_payline_hit.png"
+          ],
+          "src": [
+            "main/animation/ui/billboard_payline_hit.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/border_effect.atlas"
+          ],
+          "src": [
+            "main/animation/ui/border_effect.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/border_effect.json"
+          ],
+          "src": [
+            "main/animation/ui/border_effect.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/border_effect.png"
+          ],
+          "src": [
+            "main/animation/ui/border_effect.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_button_buy_freespin.atlas"
+          ],
+          "src": [
+            "main/animation/ui/effect_button_buy_freespin.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_button_buy_freespin.json"
+          ],
+          "src": [
+            "main/animation/ui/effect_button_buy_freespin.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_button_buy_freespin.png"
+          ],
+          "src": [
+            "main/animation/ui/effect_button_buy_freespin.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_multiplier.atlas"
+          ],
+          "src": [
+            "main/animation/ui/effect_multiplier.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_multiplier.json"
+          ],
+          "src": [
+            "main/animation/ui/effect_multiplier.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/effect_multiplier.png"
+          ],
+          "src": [
+            "main/animation/ui/effect_multiplier.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/player_console.atlas"
+          ],
+          "src": [
+            "main/animation/ui/player_console.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/player_console.json"
+          ],
+          "src": [
+            "main/animation/ui/player_console.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/player_console.png"
+          ],
+          "src": [
+            "main/animation/ui/player_console.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_effect.atlas"
+          ],
+          "src": [
+            "main/animation/ui/reel_effect.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_effect.json"
+          ],
+          "src": [
+            "main/animation/ui/reel_effect.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_effect.png"
+          ],
+          "src": [
+            "main/animation/ui/reel_effect.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_highlight.atlas"
+          ],
+          "src": [
+            "main/animation/ui/reel_highlight.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_highlight.json"
+          ],
+          "src": [
+            "main/animation/ui/reel_highlight.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/reel_highlight.png"
+          ],
+          "src": [
+            "main/animation/ui/reel_highlight.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/tumble.atlas"
+          ],
+          "src": [
+            "main/animation/ui/tumble.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/tumble.json"
+          ],
+          "src": [
+            "main/animation/ui/tumble.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/ui/tumble.png"
+          ],
+          "src": [
+            "main/animation/ui/tumble.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/change_to_wild_animate.atlas"
+          ],
+          "src": [
+            "main/animation/win_summary/change_to_wild_animate.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/change_to_wild_animate.json"
+          ],
+          "src": [
+            "main/animation/win_summary/change_to_wild_animate.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/change_to_wild_animate.png"
+          ],
+          "src": [
+            "main/animation/win_summary/change_to_wild_animate.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/freespin.atlas"
+          ],
+          "src": [
+            "main/animation/win_summary/freespin.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/freespin.json"
+          ],
+          "src": [
+            "main/animation/win_summary/freespin.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/freespin.png"
+          ],
+          "src": [
+            "main/animation/win_summary/freespin.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/freespin2.png"
+          ],
+          "src": [
+            "main/animation/win_summary/freespin2.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/total_win.atlas"
+          ],
+          "src": [
+            "main/animation/win_summary/total_win.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/total_win.json"
+          ],
+          "src": [
+            "main/animation/win_summary/total_win.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/total_win.png"
+          ],
+          "src": [
+            "main/animation/win_summary/total_win.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/total_win2.png"
+          ],
+          "src": [
+            "main/animation/win_summary/total_win2.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/total_win3.png"
+          ],
+          "src": [
+            "main/animation/win_summary/total_win3.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/win_summary.atlas"
+          ],
+          "src": [
+            "main/animation/win_summary/win_summary.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/win_summary.json"
+          ],
+          "src": [
+            "main/animation/win_summary/win_summary.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/win_summary.png"
+          ],
+          "src": [
+            "main/animation/win_summary/win_summary.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/win_summary2.png"
+          ],
+          "src": [
+            "main/animation/win_summary/win_summary2.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/animation/win_summary/win_summary3.png"
+          ],
+          "src": [
+            "main/animation/win_summary/win_summary3.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/freespin.png"
+          ],
+          "src": [
+            "main/bitmapfont/freespin.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/freespin_remain.fnt"
+          ],
+          "src": [
+            "main/bitmapfont/freespin_remain.fnt"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/freespin_remain.png"
+          ],
+          "src": [
+            "main/bitmapfont/freespin_remain.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/multiplier.png"
+          ],
+          "src": [
+            "main/bitmapfont/multiplier.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/multiplier_number.fnt"
+          ],
+          "src": [
+            "main/bitmapfont/multiplier_number.fnt"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/multiplier_number.png"
+          ],
+          "src": [
+            "main/bitmapfont/multiplier_number.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/winsum.png"
+          ],
+          "src": [
+            "main/bitmapfont/winsum.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/winsumary.fnt"
+          ],
+          "src": [
+            "main/bitmapfont/winsumary.fnt"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/bitmapfont/winsumary.png"
+          ],
+          "src": [
+            "main/bitmapfont/winsumary.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/main-atlas/main-atlas-1.json"
+          ],
+          "src": [
+            "main/main-atlas/main-atlas-1@1x.json",
+            "main/main-atlas/main-atlas-1@0.5x.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true,
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "main/main-atlas/main-atlas-0.json"
+          ],
+          "src": [
+            "main/main-atlas/main-atlas-0@1x.json",
+            "main/main-atlas/main-atlas-0@0.5x.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true,
+              "m": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X Bd.ttf"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X Bd.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X Bd.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X Bd.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X BdIt.ttf"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X BdIt.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X BdIt.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X BdIt.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X Italic.ttf"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X Italic.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X Italic.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X Italic.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X.ttf"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DB Sharp X.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/DB Sharp X.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DalekPinpointBold.ttf"
+          ],
+          "src": [
+            "preload/fonts/DalekPinpointBold.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/DalekPinpointBold.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/DalekPinpointBold.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font Clone Red Moon/psl168sp.ttf"
+          ],
+          "src": [
+            "preload/fonts/Font Clone Red Moon/psl168sp.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font Clone Red Moon/psl168sp.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/Font Clone Red Moon/psl168sp.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font Clone Red Moon/psl169sp_italic.ttf"
+          ],
+          "src": [
+            "preload/fonts/Font Clone Red Moon/psl169sp_italic.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font Clone Red Moon/psl169sp_italic.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/Font Clone Red Moon/psl169sp_italic.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font Clone Red Moon.meta"
+          ],
+          "src": [
+            "preload/fonts/Font Clone Red Moon.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/Font number.meta"
+          ],
+          "src": [
+            "preload/fonts/Font number.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/default/Kanit-Light.ttf"
+          ],
+          "src": [
+            "preload/fonts/default/Kanit-Light.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/default/Kanit-Light.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/default/Kanit-Light.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/default/Kanit-Regular.ttf"
+          ],
+          "src": [
+            "preload/fonts/default/Kanit-Regular.ttf"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/default/Kanit-Regular.ttf.meta"
+          ],
+          "src": [
+            "preload/fonts/default/Kanit-Regular.ttf.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/fonts/default.meta"
+          ],
+          "src": [
+            "preload/fonts/default.meta"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/preload-atlas/preload-atlas.json"
+          ],
+          "src": [
+            "preload/preload-atlas/preload-atlas@1x.json",
+            "preload/preload-atlas/preload-atlas@0.5x.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true,
+              "m": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
