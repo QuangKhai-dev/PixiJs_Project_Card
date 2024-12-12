@@ -1,6 +1,7 @@
 import { Container, Sprite } from 'pixi.js';
 import { LeftMainScreen } from '../ui/main/LeftMainScreen';
 import { RightMainScreen } from '../ui/main/RightMainScreen';
+import { PlayGameView } from '../ui/main/PlayGameView';
 export class MainScreen extends Container {
   /** Assets bundles required by this screen */
   public static assetBundles = ['main'];
@@ -29,7 +30,9 @@ export class MainScreen extends Container {
     // Tách 3 container để lưu giao diện
     const leftMainScreen = new LeftMainScreen();
     const rightMainScreen = new RightMainScreen();
+    const centerMainScreen = new PlayGameView();
     this.addChild(leftMainScreen);
+    this.addChild(centerMainScreen);
     this.addChild(rightMainScreen);
   }
 }

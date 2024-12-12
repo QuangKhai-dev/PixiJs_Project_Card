@@ -1,14 +1,12 @@
 import { FancyButton } from '@pixi/ui';
 import { Container, Sprite, Text } from 'pixi.js';
+import { PlayButton } from './PlayButton';
 
 export class RightMainScreen extends Container {
   private textWays: Text;
   private wildImage: Sprite;
   private freeSpinButton: FancyButton;
   private playButton: Container;
-  private turboButton: Container;
-  private autoButton: Container;
-  private settingButton: Container;
 
   constructor() {
     super();
@@ -67,6 +65,12 @@ export class RightMainScreen extends Container {
     this.freeSpinButton.y = this.textWays.height / 2 + this.wildImage.height + 20;
     this.freeSpinButton.x = 0 - this.freeSpinButton.width / 2;
     this.addChild(this.freeSpinButton);
+
+    // tạo button play
+    this.playButton = new PlayButton();
+    this.playButton.x = 0;
+    this.playButton.y = this.freeSpinButton.y + this.freeSpinButton.height + this.playButton.height / 2 + 20;
+    this.addChild(this.playButton);
 
     this.x = window.innerWidth - this.width / 2 - 50;
     this.y = 50;
